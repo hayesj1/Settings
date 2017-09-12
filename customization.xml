@@ -1,40 +1,5 @@
 <application>
   <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
-    <group value="ExternalToolsGroup" is_group="true" action_type="-1" position="31">
-      <path value="root" />
-      <path value="Favorites View Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="CompareFileWithEditor" is_action="true" action_type="-1" position="29">
-      <path value="root" />
-      <path value="Favorites View Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="CompareTwoFiles" is_action="true" action_type="-1" position="28">
-      <path value="root" />
-      <path value="Favorites View Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="ShowFilePath" is_action="true" action_type="-1" position="26">
-      <path value="root" />
-      <path value="Favorites View Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="SynchronizeCurrentFile" is_action="true" action_type="-1" position="23">
-      <path value="root" />
-      <path value="Favorites View Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="ExternalToolsGroup" is_group="true" action_type="-1" position="23">
-      <path value="root" />
-      <path value="Navigation Bar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="SynchronizeCurrentFile" is_action="true" action_type="-1" position="21">
-      <path value="root" />
-      <path value="Navigation Bar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group value="PreviousTab" is_action="true" action_type="-1" position="19">
       <path value="root" />
       <path value="Editor Tab Popup Menu" />
@@ -55,24 +20,9 @@
       <path value="Editor Tab Popup Menu" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="AddToFavorites" is_group="true" action_type="-1" position="15">
-      <path value="root" />
-      <path value="Favorites View Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group value="TabsPlacementGroup" is_group="true" action_type="-1" position="14">
       <path value="root" />
       <path value="Editor Tab Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="Images.ShowThumbnails" is_action="true" action_type="-1" position="14">
-      <path value="root" />
-      <path value="Navigation Bar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="AddToFavorites" is_group="true" action_type="-1" position="13">
-      <path value="root" />
-      <path value="Navigation Bar" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="ChangeSplitOrientation" is_action="true" action_type="-1" position="12">
@@ -90,19 +40,9 @@
       <path value="Editor Tab Popup Menu" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="WindowMenu" is_group="true" action_type="-1" position="9">
-      <path value="root" />
-      <path value="Main menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group value="MoveTabDown" is_action="true" action_type="-1" position="9">
       <path value="root" />
       <path value="Editor Tab Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="EvaluateExpression" is_action="true" action_type="-1" position="9">
-      <path value="root" />
-      <path value="Debug Tool Window Top Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="MoveTabRight" is_action="true" action_type="-1" position="8">
@@ -110,39 +50,9 @@
       <path value="Editor Tab Popup Menu" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="ToolsMenu" is_group="true" action_type="-1" position="7">
-      <path value="root" />
-      <path value="Main menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="RunMenu" is_group="true" action_type="-1" position="6">
-      <path value="root" />
-      <path value="Main menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="XDebugger.MuteBreakpoints" is_action="true" action_type="-1" position="6">
-      <path value="root" />
-      <path value="Debug Tool Window Left Toolbar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="RefactoringMenu" is_group="true" action_type="-1" position="5">
-      <path value="root" />
-      <path value="Main menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group value="ChangesView.ApplyPatch" is_action="true" action_type="-1" position="5">
       <path value="root" />
       <path value="Favorites View Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="ChangesView.ApplyPatch" is_action="true" action_type="-1" position="5">
-      <path value="root" />
-      <path value="Navigation Bar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="ViewBreakpoints" is_action="true" action_type="-1" position="5">
-      <path value="root" />
-      <path value="Debug Tool Window Left Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="XDebugger.SwitchWatchesInVariables" is_action="true" action_type="-1" position="5">
@@ -174,6 +84,20 @@
     <group value="SaveAll" is_action="true" action_type="-1" position="1">
       <path value="root" />
       <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="UpdateFiles" is_action="true" action_type="1" position="1">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <path value="MainToolBarSettings" />
+      <path value="VCS Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Vcs.Push" is_action="true" action_type="1" position="2">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <path value="MainToolBarSettings" />
+      <path value="VCS Actions" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="Vcs.QuickListPopupAction" is_action="true" action_type="1" position="3">
@@ -245,6 +169,12 @@
       <path value="root" />
       <path value="Main menu" />
       <path value="VCS" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="NewFromTemplate" is_action="true" action_type="1" position="13">
+      <path value="root" />
+      <path value="Favorites View Popup Menu" />
+      <path value="New" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="ChangesView.ApplyPatchFromClipboard" is_action="true" action_type="1" position="14">
