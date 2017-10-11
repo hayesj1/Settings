@@ -1,46 +1,5 @@
 <code_scheme name="Default">
-  <option name="OTHER_INDENT_OPTIONS">
-    <value>
-      <option name="INDENT_SIZE" value="4" />
-      <option name="CONTINUATION_INDENT_SIZE" value="8" />
-      <option name="TAB_SIZE" value="4" />
-      <option name="USE_TAB_CHARACTER" value="true" />
-      <option name="SMART_TABS" value="true" />
-      <option name="LABEL_INDENT_SIZE" value="0" />
-      <option name="LABEL_INDENT_ABSOLUTE" value="false" />
-      <option name="USE_RELATIVE_INDENTS" value="false" />
-    </value>
-  </option>
   <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
-  <Python>
-    <option name="SPACE_WITHIN_BRACES" value="true" />
-    <option name="BLANK_LINE_AT_FILE_END" value="false" />
-    <option name="NEW_LINE_AFTER_COLON_MULTI_CLAUSE" value="false" />
-    <option name="DICT_ALIGNMENT" value="1" />
-    <option name="BLANK_LINES_AFTER_LOCAL_IMPORTS" value="1" />
-    <option name="USE_CONTINUATION_INDENT_FOR_ARGUMENTS" value="true" />
-    <option name="OPTIMIZE_IMPORTS_SORT_NAMES_IN_FROM_IMPORTS" value="true" />
-    <option name="FROM_IMPORT_PARENTHESES_FORCE_IF_MULTILINE" value="true" />
-  </Python>
-  <codeStyleSettings language="HTML">
-    <indentOptions>
-      <option name="INDENT_SIZE" value="3" />
-      <option name="CONTINUATION_INDENT_SIZE" value="6" />
-      <option name="TAB_SIZE" value="3" />
-      <option name="USE_TAB_CHARACTER" value="true" />
-      <option name="SMART_TABS" value="true" />
-    </indentOptions>
-  </codeStyleSettings>
-  <codeStyleSettings language="JSON">
-    <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
-    <indentOptions>
-      <option name="INDENT_SIZE" value="3" />
-      <option name="CONTINUATION_INDENT_SIZE" value="6" />
-      <option name="TAB_SIZE" value="3" />
-      <option name="USE_TAB_CHARACTER" value="true" />
-      <option name="SMART_TABS" value="true" />
-    </indentOptions>
-  </codeStyleSettings>
   <codeStyleSettings language="Python">
     <indentOptions>
       <option name="INDENT_SIZE" value="3" />
@@ -48,20 +7,6 @@
       <option name="TAB_SIZE" value="3" />
       <option name="USE_TAB_CHARACTER" value="true" />
       <option name="SMART_TABS" value="true" />
-    </indentOptions>
-  </codeStyleSettings>
-  <codeStyleSettings language="XML">
-    <indentOptions>
-      <option name="INDENT_SIZE" value="3" />
-      <option name="CONTINUATION_INDENT_SIZE" value="6" />
-      <option name="TAB_SIZE" value="3" />
-      <option name="USE_TAB_CHARACTER" value="true" />
-      <option name="SMART_TABS" value="true" />
-    </indentOptions>
-  </codeStyleSettings>
-  <codeStyleSettings language="yaml">
-    <indentOptions>
-      <option name="INDENT_SIZE" value="3" />
     </indentOptions>
   </codeStyleSettings>
 </code_scheme>
