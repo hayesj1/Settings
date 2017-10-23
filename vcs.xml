@@ -10,6 +10,10 @@
           <option name="url" value="https://github.com/hayesj1/DataStrcuturesLabs.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/hayesj1/zoo-game.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\hayesj3\Documents\GitHub_Repos" />
