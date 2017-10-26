@@ -5,6 +5,7 @@
       <mapping pattern="001_processFiles" type="CommandLine" />
       <mapping pattern="TEST_DATA" type="Native" />
       <mapping ext="ksh" type="Native" />
+      <mapping pattern="ERROR_LOG" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
