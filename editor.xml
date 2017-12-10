@@ -4,8 +4,8 @@
     <option name="FONT_SCALE" value="1.0833334" />
   </component>
   <component name="TodoConfiguration">
-    <pattern pattern="\btodo\b.*" />
-    <pattern icon="important" pattern="\bfixme\b.*" />
-    <pattern icon="question" pattern="\bnote\b.*" />
+    <pattern case-sensitive="true" pattern="\bTODO\b.*" />
+    <pattern icon="important" case-sensitive="true" pattern="\bFIXME\b.*" />
+    <pattern icon="question" case-sensitive="true" pattern="\bNOTE\b.*" />
   </component>
 </application>
