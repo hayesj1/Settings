@@ -5,6 +5,7 @@
       <mapping pattern="TEST_DATA" type="Native" />
       <mapping pattern="[1A]DES_cipher-txt" type="PLAIN_TEXT" />
       <mapping pattern="DESciphertext" type="PLAIN_TEXT" />
+      <mapping pattern="TDESciphertext" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
