@@ -8,6 +8,7 @@
       <mapping pattern="[1A]DES_cipher-txt" type="PLAIN_TEXT" />
       <mapping pattern="TDESciphertext" type="PLAIN_TEXT" />
       <mapping pattern="DESciphertext" type="PLAIN_TEXT" />
+      <mapping ext="mp3" type="PLAIN_TEXT" />
       <mapping ext="ini" type="Properties" />
     </extensionMap>
   </component>
