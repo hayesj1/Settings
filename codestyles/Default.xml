@@ -1,5 +1,10 @@
 <code_scheme name="Default" version="173">
   <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
+  <CsvCodeStyleSettings>
+    <option name="SPACE_AFTER_SEPARATOR" value="true" />
+    <option name="WHITE_SPACES_OUTSIDE_QUOTES" value="false" />
+    <option name="LEADING_WHITE_SPACES" value="true" />
+  </CsvCodeStyleSettings>
   <codeStyleSettings language="JAVA">
     <option name="SPACE_WITHIN_PARENTHESES" value="true" />
     <option name="SPACE_WITHIN_ARRAY_INITIALIZER_BRACES" value="true" />
