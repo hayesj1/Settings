@@ -6,6 +6,7 @@
       <mapping pattern="neat-config-feedforward" type="Native" />
       <mapping ext="exe" type="Native" />
       <mapping pattern="[1A]DES_cipher-txt" type="PLAIN_TEXT" />
+      <mapping pattern=".libindex.dat" type="PLAIN_TEXT" />
       <mapping pattern="TDESciphertext" type="PLAIN_TEXT" />
       <mapping pattern="encrypted" type="PLAIN_TEXT" />
       <mapping pattern=".RData" type="PLAIN_TEXT" />
