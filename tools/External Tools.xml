@@ -1,9 +1,9 @@
 <toolSet name="External Tools">
-  <tool name="jrun" description="Runs EC Assignment" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
+  <tool name="hexdump" description="View binary file contents" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="C:\Users\hayesj3\Dropbox\Wentworth\Senior\Public Key Crypto\EC1\Steganography_EC\bin\production\Steganography_EC\jrun.bat" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="C:/Users/hayesj3/Dropbox/Wentworth/Senior/Public Key Crypto/EC1/Steganography_EC/bin/production/Steganography_EC" />
+      <option name="COMMAND" value="hexdump" />
+      <option name="PARAMETERS" value="$FilePathRelativeToProjectRoot$" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Dropbox/Wentworth/Senior/Public Key Crypto/Labs/lab6/" />
     </exec>
   </tool>
 </toolSet>
