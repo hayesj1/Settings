@@ -3,7 +3,7 @@
     <exec>
       <option name="COMMAND" value="hexdump" />
       <option name="PARAMETERS" value="$FilePathRelativeToProjectRoot$" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Dropbox/Wentworth/Senior/Public Key Crypto/Labs/lab6/" />
+      <option name="WORKING_DIRECTORY" value="C:/Users/hayesj3/Dropbox/Wentworth/Senior/Public Key Crypto/Labs/lab6/" />
     </exec>
   </tool>
 </toolSet>
