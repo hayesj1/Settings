@@ -6,4 +6,18 @@
       <option name="WORKING_DIRECTORY" value="C:/Users/hayesj3/Dropbox/Wentworth/Senior/Public Key Crypto/Labs/lab6/" />
     </exec>
   </tool>
+  <tool name="j.sh" description="compile ECC lib" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="$USER_HOME$/Dropbox/Wentworth/Senior/Public Key Crypto/Labs/lab9/j.sh" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Dropbox/Wentworth/Senior/Public Key Crypto/Labs/lab9" />
+    </exec>
+  </tool>
+  <tool name="jrun.sh" description="Execute ECCTester" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="$USER_HOME$/Dropbox/Wentworth/Senior/Public Key Crypto/Labs/lab9/jrun.sh" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Dropbox/Wentworth/Senior/Public Key Crypto/Labs/lab9" />
+    </exec>
+  </tool>
 </toolSet>
