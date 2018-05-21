@@ -22,6 +22,14 @@
         <root url="jar://$USER_HOME$/Documents/Global_Libs/junit/junit-4.12/hamcrest-core-1.3-sources.jar!/" />
       </SOURCES>
     </library>
+    <library name="lwjgl 3.1.6">
+      <CLASSES>
+        <root url="file://$USER_HOME$/Documents/Global_Libs/lwjgl/3.1.6" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+      <jarDirectory url="file://$USER_HOME$/Documents/Global_Libs/lwjgl/3.1.6" recursive="false" />
+    </library>
     <library name="R Skeletons">
       <CLASSES>
         <root url="file://$USER_HOME$/.PyCharmCE2017.3/system/r_skeletons/557645216" />
@@ -31,21 +39,27 @@
     </library>
     <library name="Slick2D">
       <CLASSES>
-        <root url="file://$USER_HOME$/Documents/Global_Libs/Slick2D" />
-        <root url="file://$USER_HOME$/Documents/Global_Libs/Slick2D/lib" />
+        <root url="jar://$USER_HOME$/Documents/Global_Libs/Slick2D/lib/lwjgl.jar!/" />
+        <root url="jar://$USER_HOME$/Documents/Global_Libs/Slick2D/lib/lwjgl_util.jar!/" />
+        <root url="jar://$USER_HOME$/Documents/Global_Libs/Slick2D/lib/jinput.jar!/" />
+        <root url="jar://$USER_HOME$/Documents/Global_Libs/Slick2D/lib/slick.jar!/" />
       </CLASSES>
       <JAVADOC>
         <root url="file://$USER_HOME$/Documents/Global_Libs/Slick2D/javadoc" />
       </JAVADOC>
-      <NATIVE>
-        <root url="file://$USER_HOME$/Documents/Global_Libs/Slick2D" />
-      </NATIVE>
       <SOURCES>
         <root url="file://$USER_HOME$/Documents/Global_Libs/Slick2D/src" />
         <root url="file://$USER_HOME$/Documents/Global_Libs/Slick2D/tools" />
       </SOURCES>
-      <jarDirectory url="file://$USER_HOME$/Documents/Global_Libs/Slick2D" recursive="false" />
-      <jarDirectory url="file://$USER_HOME$/Documents/Global_Libs/Slick2D/lib" recursive="false" />
+    </library>
+    <library name="Slick2D Natives">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/Documents/Global_Libs/Slick2D/lib/natives-linux.jar!/" />
+        <root url="jar://$USER_HOME$/Documents/Global_Libs/Slick2D/lib/natives-mac.jar!/" />
+        <root url="jar://$USER_HOME$/Documents/Global_Libs/Slick2D/lib/natives-windows.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
     </library>
   </component>
 </application>
