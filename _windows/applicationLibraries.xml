@@ -55,7 +55,6 @@
         <root url="jar://$USER_HOME$/Documents/Global_Libs/Slick2D/lib/lwjgl.jar!/" />
         <root url="jar://$USER_HOME$/Documents/Global_Libs/Slick2D/lib/lwjgl_util.jar!/" />
         <root url="jar://$USER_HOME$/Documents/Global_Libs/Slick2D/lib/jinput.jar!/" />
-        <root url="jar://$USER_HOME$/Documents/Global_Libs/Slick2D/lib/slick.jar!/" />
       </CLASSES>
       <JAVADOC>
         <root url="file://$USER_HOME$/Documents/Global_Libs/Slick2D/javadoc" />
