@@ -5,6 +5,7 @@
       <mapping pattern="001_processFiles" type="CommandLine" />
       <mapping pattern="TEST_DATA" type="Native" />
       <mapping ext="ksh" type="Native" />
+      <mapping ext="ino" type="Native" />
       <mapping pattern="breakerFile" type="PLAIN_TEXT" />
       <mapping pattern="broken" type="PLAIN_TEXT" />
       <mapping pattern="ERROR_LOG" type="PLAIN_TEXT" />
