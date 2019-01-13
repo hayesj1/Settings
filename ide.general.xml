@@ -8,5 +8,7 @@
     <entry key="ide.tooltip.initialDelay" value="899" />
     <entry key="SBT.system.in.process" value="true" />
     <entry key="search.everywhere.settings" value="true" />
+    <entry key="BSP.experimental.feature.enabled" value="false" />
+    <entry key="BSP.system.in.process" value="true" />
   </component>
 </application>
